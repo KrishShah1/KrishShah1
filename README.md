@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishShah1
 - 👀 I’m interested in Computer Science, Enginnering and Robotics
-- 🌱 I’m currently learning SQL, C++ and hopefully soon PERL
+- 🌱 I’m currently learning Java, C++ and hopefully soon PERL
 - 📫 How to reach me - krishshah8590@gmail.com
 
 <!---
